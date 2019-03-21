@@ -7,7 +7,7 @@ Maintainer: 404meemr <slad0716@gmail.com>
 Author: 404meemr <slad0716@gmail.com>
 Section: Tweak
 Depends:
-Filename: /debs/com.404meemr.darkpowerselector_1.0.0-2+debug_iphoneos-arm.deb
+Filename: ./debs/com.404meemr.darkpowerselector_1.0.0-2+debug_iphoneos-arm.deb
 Size: 4346
 MD5sum: 437b930db84b8079c2dd804a71936b5f
 SHA1: 1af17e73721dbe0c40011b82ed4bb1a7dbe3ce29
