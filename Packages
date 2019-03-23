@@ -1,0 +1,14 @@
+Package: com.404meemr.darkpowerselector
+Name: DarkPowerSelector
+Version: 2.0.0
+Architecture: iphoneos-arm
+Description: Dark mode for the PowerSelector app so that I wont go blind so soon
+Maintainer: 404meemr <slad0716@gmail.com>
+Author: 404meemr <slad0716@gmail.com>
+Section: Tweak
+Filename: ./debs/com.404meemr.darkpowerselector_1.0.0-14+debug_iphoneos-arm.deb
+Size: 7000
+MD5sum: abc4b535538f68746db59cdd1d677355
+SHA1: b722850860152f57a4c8d7f05534640db75e5698
+SHA256: d2632fc1b9fb2b548b19cadd1eef29a4300bd8deab93a26ab314232611e32104
+
